@@ -1,5 +1,5 @@
 {
     "message": "Message from CLA Bot. {{usersWithoutCLA}}",
     "label": "CLA/success",
-    "contributors": []
+    "contributors": ["direnol"]
 }
