@@ -1,5 +1,5 @@
 {
     "message": "Message from CLA Bot. {{usersWithoutCLA}}",
     "label": "CLA/success",
-    "contributors": ["direnol", "GennadySpb"]
+    "contributors": "https://functions.yandexcloud.net/d4eg56fcvbmq8f40vo1t?contributor="
 }
