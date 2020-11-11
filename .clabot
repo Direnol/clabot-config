@@ -1,5 +1,6 @@
 {
     "message": "Thank you for your submission! We require that all contributors sign our Contributor License Agreement (\"CLA\") before we can accept the contribution. [Read](https://yandex.ru/legal/cla/?lang=en) and [sign](https://github.com/login/oauth/authorize?client_id=8c7f5fa80b7fe42aff74) the agreement. Users wihout CLA: {{usersWithoutCLA}}. Please, after sign call bot \"@yandex-cla-bot check\"",
     "label": "CLA/success",
-    "contributors": "https://functions.yandexcloud.net/d4eg56fcvbmq8f40vo1t?contributor="
+    "contributors": "https://functions.yandexcloud.net/d4eg56fcvbmq8f40vo1t?contributor=",
+    "recheckComment": "The cla-bot has been summoned, and re-checked this pull request! {{usersWithoutCLA}}"
 }
